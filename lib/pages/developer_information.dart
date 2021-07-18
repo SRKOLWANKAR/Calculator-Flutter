@@ -699,6 +699,9 @@ class _developer_information_pageState
   }
   // method for show or hide reviews widget ends
 
+  
+  // ########################################################################################
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -819,7 +822,7 @@ class _developer_information_pageState
                     width: 10.0,
                   ),
                   Text(
-                    "siddhirajk77@gmail.com",
+                    "YourEmail@gmail.com",
                     style: TextStyle(
                       color: Colors.grey[400],
                       fontSize: 15.0,
@@ -863,7 +866,7 @@ class _developer_information_pageState
                     width: 10.0,
                   ),
                   Text(
-                    "+91 9594106468 ",
+                    "Your Phone no",
                     style: TextStyle(
                       color: Colors.grey[400],
                       fontSize: 15.0,
